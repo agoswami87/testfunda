@@ -1,6 +1,43 @@
 --> various git commands
+--> vim
+--> gsoap
+--> curl and libcurl
+--> gdb and valgrind
+--> cscope , ctags
 --> Makefile
+	CF_FLAGS, LDD_FLAGS
+	creating only objects
+	creating shared library
+	creating static library
+	linking
 --> IPC (Threads , Socket , shared memory , message queue, pipe)
 --> TCP vs UDP Socket
 --> POSIX Threads and Threadpool
+--> POSIX signal and signal handling
+--> POSIX timer
+--> SQL, postgres and integration
+--> C++
+--> python
+--> XML, XSD & libxml
+--> HTTP protocol, JSON , httpd server, GET/PUT/POST cookie
+--> jenkins, coverity
 
+--> PTP TR069 SON
+--> security (openssl , strongswan)
+--> Openstack
+--> AIML
+--> IOT
+--> MQTT
+--> GPB & ASN.1
+
+--> Networking
+	TCP/IP :wq
+
+--> Datastructure
+	Stack
+	Queue
+	Linked List -all types
+	Tree -traversal
+	Hash Table/hashmap
+	Sorting -all types and complexity
+	Searching -complexity
