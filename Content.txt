@@ -1,0 +1,5 @@
+--> various git commands
+--> Makefile
+--> IPC (Threads , Socket , shared memory , message queue, pipe)
+--> TCP vs UDP Socket
+
