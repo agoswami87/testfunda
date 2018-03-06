@@ -10,20 +10,22 @@
 	creating shared library
 	creating static library
 	linking
---> IPC (Threads , Socket , shared memory , message queue, pipe)
---> TCP vs UDP Socket
---> POSIX Threads and Threadpool
+--> POSIX IPC (Threads , Socket , shared memory , message queue, pipe)
+--> POSIX Synchronisation(mutex, cond_wait, cond_signal)
+--> POSIX TCP vs UDP Socket
+--> POSIX Threads and Threadpool(producer consumer problem)
 --> POSIX signal and signal handling
---> POSIX timer
---> SQL, postgres and integration
+--> POSIX timers
+--> SQL, postgres and integration with C/C++/python application; concurrent access and caching
 --> C++
 --> python
 --> XML, XSD & libxml
 --> HTTP protocol, JSON , httpd server, GET/PUT/POST cookie
 --> jenkins, coverity
+--> basic HTML
 
---> PTP TR069 SON
---> security (openssl , strongswan)
+--> Protocols: PTP TR069 SON
+--> cyrptography, encryption and security (openssl , strongswan)
 --> Openstack
 --> AIML
 --> IOT
@@ -31,7 +33,10 @@
 --> GPB & ASN.1
 
 --> Networking
-	TCP/IP :wq
+	TCP/IP protocol stack, understanding TCP handshake
+	Ip addressing, subnetting, masking
+	Routing
+	HTTP & HTTPS (GET,PUT,POST)
 
 --> Datastructure
 	Stack
@@ -41,3 +46,4 @@
 	Hash Table/hashmap
 	Sorting -all types and complexity
 	Searching -complexity
+
