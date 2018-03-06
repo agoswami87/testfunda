@@ -3,7 +3,11 @@
 	--Array of pointers(structures)
 	--Makefile(compiling libraries,C++ object & linking)
 	--writing compiler specific codes
+	--inline function & MACRO preprocessor
 
 --> C++ programming
 	--boost/smart pointers
 	--namespace mangling
+
+--> Makefile
+	--wildcard object names
