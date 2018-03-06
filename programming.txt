@@ -1,0 +1,9 @@
+--> C programming
+	--Bitmask & Bitwise operations
+	--Array of pointers(structures)
+	--Makefile(compiling libraries,C++ object & linking)
+	--writing compiler specific codes
+
+--> C++ programming
+	--boost/smart pointers
+	--namespace mangling
