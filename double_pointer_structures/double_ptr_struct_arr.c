@@ -57,9 +57,12 @@ int main(){
 
   for(i=0;i<2;i++){
 	  printf("Name %s value %s\n",tst[i]->Name,tst[i]->Value);
+	free(tst[i]->Name);
+	free(tst[i]->Value);
   }
-
-
+ free(arr2);
+ free(arr);
+ free(tst); 
 
 
 }
